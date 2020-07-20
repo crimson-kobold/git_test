@@ -1,0 +1,1 @@
+This is Clays first Git project
